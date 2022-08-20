@@ -1,0 +1,37 @@
+.btn1 {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 0px 0px 0px 0px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #ededed;
+  background-image: -webkit-linear-gradient(top, #ededed, #ededed);
+  background-image: -moz-linear-gradient(top, #ededed, #ededed);
+  background-image: -ms-linear-gradient(top, #ededed, #ededed);
+  background-image: -o-linear-gradient(top, #ededed, #ededed);
+  background-image: linear-gradient(to bottom, #ededed, #ededed);
+  text-decoration: none;
+}
+
+.title{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.Contact{
+  position: absolute;
+  left: 40%;
+}
